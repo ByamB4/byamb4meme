@@ -1,0 +1,65 @@
+[
+  {
+    "source_type": "facebook_group",
+    "name": "21st Century Humor",
+    "username": "966458157507349",
+    "min_reaction": {
+      "photo": "100",
+      "video_inline": "100"
+    }
+  },
+  {
+    "source_type": "facebook_group",
+    "name": "144p",
+    "username": "663945071282675",
+    "min_reaction": {
+      "photo": "100",
+      "video_inline": "100"
+    }
+  },
+  {
+    "source_type": "facebook_group",
+    "name": "ScienceMemes",
+    "username": "138875060258561",
+    "min_reaction": {
+      "photo": "100",
+      "video_inline": "100"
+    }
+  },
+  {
+    "source_type": "facebook_group",
+    "name": "Cat Memes",
+    "username": "923931037938226",
+    "min_reaction": {
+      "photo": "100",
+      "video_inline": "100"
+    }
+  },
+  {
+    "source_type": "facebook_group",
+    "name": "Programming Jokes & MeMes",
+    "username": "2616981278627207",
+    "min_reaction": {
+      "photo": "100",
+      "video_inline": "100"
+    }
+  },
+  {
+    "source_type": "facebook_group",
+    "name": "Family Guy Posting",
+    "username": "4658804394140797",
+    "min_reaction": {
+      "photo": "100",
+      "video_inline": "100"
+    }
+  },
+  {
+    "source_type": "facebook_group",
+    "name": "IT Humor and Memes",
+    "username": "3227683947257367",
+    "min_reaction": {
+      "photo": "100",
+      "video_inline": "100"
+    }
+  }
+]
